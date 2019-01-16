@@ -1,0 +1,21 @@
+#right {
+    width: 235px;
+    border: solid 2px #76B1DC;
+}
+#right {
+    float: right;
+    padding: 5px 2px 2px 2px;
+    margin-right: 5px;
+    background-color: lavender;
+}
+#right {
+    float: right;
+}
+aside, article, figure, figcaption {
+    display: block;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+
